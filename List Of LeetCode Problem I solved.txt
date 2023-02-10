@@ -1,0 +1,2 @@
+Reverse Integer:  https://leetcode.com/problems/reverse-integer/
+Two Sum: https://leetcode.com/problems/two-sum/
